@@ -1,0 +1,2 @@
+# subsquid
+subsquid run network
